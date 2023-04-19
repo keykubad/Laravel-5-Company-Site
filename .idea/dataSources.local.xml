@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - kurumsal@localhost" uuid="24a90892-0084-4db5-ae07-34e3ed27b0dd">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>kurumsal.*</schema-pattern>
+      <default-schemas>kurumsal.*</default-schemas>
+    </data-source>
+  </component>
+</project>
